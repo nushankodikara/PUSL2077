@@ -12,8 +12,25 @@
 - Introduction to Functions
 - Introduction to Lists
 - Introduction to Loops
-- 
+
+## Lecture 03
+- Dictionary
+- Tuples
+- Sets
+- User Defined Functions
+- Lambda Functions
+
+## Lecture 04
+- Exercises
+- Data Cleaning Theory
+- Data Pre-Processing Theory
+
+## Lecture 05
+- Data Cleaning
+- Data Pre-Processing
+
 ---
+
 # Labs
 
 ---
