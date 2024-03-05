@@ -29,6 +29,11 @@
 - Data Cleaning
 - Data Pre-Processing
 
+## Lecture 06
+- Pandas Drop
+- Pandas loc()
+- Pandas iloc()
+
 ---
 
 # Labs
